@@ -1,7 +1,7 @@
 ### Hi there 👋
+ Hello and thank you for stopping by! I'm Cuma and I'm a software developer. Here you'll find a collection of personal projects as well as neat ideas blossoming into cool applications! Please feel free to share your thoughts, ideas, or feedback by submitting an issue on anything that might catch your attention. Thanks for looking, and please feel free to connect with me on [Linkedln]([https://link-url-here.org](https://www.linkedin.com/in/cuma-ugur-0b5900250/)) 🌱
 
-<!--
-**cumauu73/cumauu73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
