@@ -19,7 +19,7 @@ Hello and thank you for stopping by! I'm Cuma and I'm a web developer. Here you'
 - 💬 Ask me about anything, I am happy to help
 
 - 🌱 I'm currently learning:
-  - iOS App Developing and Shift UI on [developer.apple](https://developer.apple.com/tutorials/app-dev-training/)
+- iOS App Developing and Shift UI on [developer.apple](https://developer.apple.com/tutorials/app-dev-training/)
   
 
 - 📬 How to reach me: [devugur24@gmail.com](mailto:devugur24@gmail.com)
