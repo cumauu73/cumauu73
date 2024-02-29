@@ -23,7 +23,7 @@ Hello and thank you for stopping by! I'm Cuma and I'm a web developer. Here you'
   
 
 - 📬 How to reach me: [devugur24@gmail.com](mailto:devugur24@gmail.com)
-- 📝 [Resume]().
+- 📝 [Resume](https://docs.google.com/document/d/1m3saLzQGqzammWM6cZGNb4ynoMAefFhB/edit?usp=drive_link&ouid=101367616917571853360&rtpof=true&sd=true).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
