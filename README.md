@@ -41,7 +41,7 @@ Hello and thank you for stopping by! I'm Cuma and I'm a web developer. Here you'
 &nbsp;
 
 ---
-
+# Check Out My [Coding Store](https://codinglifeall.etsy.com) profile! <a href="[https://www.cumaugur.com/](https://codinglifeall.etsy.com)">
 ## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
